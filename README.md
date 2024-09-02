@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bao Le</h1>
 <h3 align="center">A passionate backend developer from Vietnam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=baole23520112&label=Profile%20views&color=0e75b6&style=flat" alt="baole23520112" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lvb2104&label=Profile%20views&color=0e75b6&style=flat" alt="lvb2104" /> </p>
 
 - 🌱 I’m currently learning **Vuejs, Nodejs**
 
@@ -37,7 +37,7 @@
 
 <h3 align="left">🔥  My Stats :</h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=baole23520112&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=baole23520112&theme=dark&show_icons=true" alt="Bao's GitHub stats"></br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baole23520112&theme=dark&layout=compact" alt="Top Languages">
+  <img src="https://streak-stats.demolab.com?user=lvb2104&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lvb2104&theme=dark&show_icons=true" alt="Bao's GitHub stats"></br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvb2104&theme=dark&layout=compact" alt="Top Languages">
 </div>

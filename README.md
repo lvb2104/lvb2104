@@ -39,7 +39,5 @@
 
 <h3 align="left">🔥  My Stats :</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lvb2104&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="Bao's GitHub stats" width="350px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvb2104&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" height="150px"></br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lvb2104&theme=merko&hide_border=true" alt="streak graph"  width="600px"/>
 </div>

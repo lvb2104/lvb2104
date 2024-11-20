@@ -39,5 +39,5 @@
 
 <h3 align="left">🔥  My Stats :</h3>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lvb2104&theme=merko&hide_border=true" alt="streak graph"  width="600px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lvb2104&theme=merko&hide_border=true" alt="streak graph""/>
 </div>

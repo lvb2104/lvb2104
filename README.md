@@ -7,7 +7,7 @@
 
 - 🤝 Exchange knowledge about **Linux**
 
-- 📫 How to reach me **23520112@gm.uit.edu.vn**
+- 📫 How to reach me **levanbao2105@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

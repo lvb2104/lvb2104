@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lvb2104&label=Profile%20views&color=0e75b6&style=flat" alt="lvb2104"/> </p>
 
-- 🤝 Exchange knowledge about **Linux**
-
 - 📫 How to reach me **levanbao2105@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
